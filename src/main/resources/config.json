@@ -1,5 +1,5 @@
 {
   "skipDailyTask": False,
   "predictNumberOfCoins": 15,
-  "minimumNumberOfCoins": 50
+  "minimumNumberOfCoins": 100
 }
